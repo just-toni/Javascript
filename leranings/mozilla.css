@@ -1,0 +1,42 @@
+.second_div{
+    margin: auto;
+    width: 40%;
+    border: 5px, solid, black;
+    background-color: orange;
+    border-style: solid;
+}
+
+.image{
+    size: 20px;
+    display:block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+
+.heading{
+    text-align: center;
+    size: 2cm;
+    font-family:'Open Sans' ,sans-serif;
+    color: blue;
+}
+
+.body{
+    background-color: blue;
+    font-family:'Open Sans' ,sans-serif;
+}
+
+.ul{
+    list-style-type: disc;
+    font-size: 16px;
+    line-height: 2;
+    letter-spacing: 1px;
+}
+
+.p{
+    font-size: 16px;
+    line-height: 2;
+    letter-spacing: 1px;
+    padding-left: 20px;
+    padding-right: 20px;
+}
